@@ -5,7 +5,6 @@
 
 File myFile;
 
-extern uint8_t SmallFont[]; 
 extern uint8_t BigFont[];  
 extern uint8_t SevenSegNumFont[]; 
 
